@@ -1,0 +1,9 @@
+item {
+  id: 1
+  name: 'SSD2230'
+}
+
+item {
+  id: 2
+  name: 'SSD2280'
+}

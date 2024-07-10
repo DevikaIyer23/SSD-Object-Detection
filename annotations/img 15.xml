@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>img 15.png</filename>
+	<path>C:\Users\devik\OneDrive\Desktop\dataset\images\img 15.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>694</width>
+		<height>418</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ssd2280</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3</xmin>
+			<ymin>61</ymin>
+			<xmax>685</xmax>
+			<ymax>403</ymax>
+		</bndbox>
+	</object>
+</annotation>
