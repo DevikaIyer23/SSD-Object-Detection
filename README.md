@@ -1,4 +1,4 @@
-# SSD-Object-Detection-
+# SSD-Object-Detection
 The objective of this project is to robustly analyse an image and accurately identify the two prevalent solid state drivers namely the SSD 2230 and SSD 2280 using a yolo v8 model. It aims to automate computer hardware identification within images thereby distinguishing the hard disks based on key physical characteristics
 
 
